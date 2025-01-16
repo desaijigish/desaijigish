@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @desaijigish
-- 👀 I’m interested in Data Science, Computer Networks and programming in general
+- 👀 I’m interested in web development  and programming in general
 - 💞️ I’m looking to collaborate on software and web related projects
 - 📫 How to reach me desaijigish12@gmail.com
 <!---
